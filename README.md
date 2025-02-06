@@ -2,7 +2,7 @@
 To-Do List Web Application  A simple and responsive to-do list web application built with Express.js, PostgreSQL, and EJS templates. Manage your tasks by adding, editing, or deleting them dynamically.
 
 
-![To-Do Page] (https://github.com/DaChe01/To-Do/blob/main/public/assets/images/To-Do.png)
+![To-Do Page](https://github.com/DaChe01/To-Do/blob/main/public/assets/images/To-Do.png)
 
 
 Tech Stack
